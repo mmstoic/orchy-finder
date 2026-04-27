@@ -1,0 +1,218 @@
+(.venv) madalinastoicov@madefile orchy-finder % python3 scrape_orchesis.py 
+Fetching videos from https://www.youtube.com/@CUorchesis/videos …
+(This may take a few minutes for large channels.)
+Total videos found on channel: 311
+
+============================================================
+Total videos on channel : 311
+Videos with no song info: 90
+
+Videos missing song info:
+  • 2024 Executive Board Speech (OrCARsis)
+    https://www.youtube.com/watch?v=nHmfmuaR32A
+  • InterstellOrchesis Executive Board Speech
+    https://www.youtube.com/watch?v=LXArC41UQGQ
+  • Executive Board 2023 Speech (RodeOrchesis)
+    https://www.youtube.com/watch?v=ySHTuk_Z3r0
+  • Executive Board 2022 Speech  DiscOrchesis
+    https://www.youtube.com/watch?v=iKwT9G5c3Bc
+  • More Than a Woman - Choreographer Interlude (DiscOrchesis)
+    https://www.youtube.com/watch?v=hATD21DZDnc
+  • Executive Board 2022 Speech "EuphOrchesis"
+    https://www.youtube.com/watch?v=tfbcl4krvPc
+  • Bows ~ Dance Moms: Living on the Dance FloOrchesis
+    https://www.youtube.com/watch?v=8fmTU8afJ7A
+  • Introduction ~ Dances Moms: Living on the Dance FloOrchesis
+    https://www.youtube.com/watch?v=4wnMS91Z-o4
+  • Executive Board Speech ~ Dances Moms: Living on the Dance FloOrchesis
+    https://www.youtube.com/watch?v=27tfKYJ5ZPA
+  • Live From New YOrchesis, It's Saturday Night!
+    https://www.youtube.com/watch?v=2SPGlLCxtT0
+  • TIKTORCHESIS
+    https://www.youtube.com/watch?v=AoShqhWKuK4
+  • I Know a Place
+    https://www.youtube.com/watch?v=h27Lgho5fII
+  • self | care
+    https://www.youtube.com/watch?v=4gYTHpZevok
+  • Gamers, Rise Up!
+    https://www.youtube.com/watch?v=iuVrqn_Dd-8
+  • Rollercoaster
+    https://www.youtube.com/watch?v=B1R8qVvN0jQ
+  • SOSEY
+    https://www.youtube.com/watch?v=QxIi9NQIVF0
+  • It's Britney B****
+    https://www.youtube.com/watch?v=VTB1GQ6MbBs
+  • Every Heart
+    https://www.youtube.com/watch?v=EQmphUAUWXU
+  • Rich Girls
+    https://www.youtube.com/watch?v=rPteUsgJWAs
+  • Life in ColOrchesis Finale: Life in Color!
+    https://www.youtube.com/watch?v=XkOggbyCzsw
+  • Yellow Interlude
+    https://www.youtube.com/watch?v=pGWOotoz7K0
+  • Blue Interlude (Board 2019)
+    https://www.youtube.com/watch?v=vqzzAkQAXcc
+  • Green Interlude
+    https://www.youtube.com/watch?v=ibgzxQn8a3k
+  • Red Interlude
+    https://www.youtube.com/watch?v=sHeChmRQ1PM
+  • Numbers
+    https://www.youtube.com/watch?v=ykCgAJoOjrs
+  • bad guy
+    https://www.youtube.com/watch?v=mrKaLYlIGOI
+  • ICY GRL
+    https://www.youtube.com/watch?v=qP4wK2qXglY
+  • Moving on
+    https://www.youtube.com/watch?v=3knR6zSZjQE
+  • Moonlight
+    https://www.youtube.com/watch?v=mNpetTUyDwg
+  • Loved Ones
+    https://www.youtube.com/watch?v=7j58I-nufYw
+  • 20 Fine FrØkner
+    https://www.youtube.com/watch?v=k0iYnjRMEA8
+  • Life in ColOrchesis: EBoard Speech
+    https://www.youtube.com/watch?v=X_jWxHjaJ0o
+  • Bears. Beets. Battlestar GalactOrchesis: Finale
+    https://www.youtube.com/watch?v=pPl4RkVhP9I
+  • Bears. Beets. Battlestar GalactOrchesis: Just Jumpin Around
+    https://www.youtube.com/watch?v=d-WSQhw8tds
+  • Move Me, Baby
+    https://www.youtube.com/watch?v=RIpF4GAiHUw
+  • How I Met Your Mother Interlude
+    https://www.youtube.com/watch?v=Qi11PZQPzJk
+  • Bears. Beets. Battlestar GalactOrchesis: Tame the Ocean
+    https://www.youtube.com/watch?v=i6M2NwpTPG4
+  • Bears. Beets. Battlestar GalactOrchesis: ur welcome
+    https://www.youtube.com/watch?v=CLbV5SqwHTs
+  • Bears. Beets. Battlestar GalactOrchesis: Phenomenal Woman
+    https://www.youtube.com/watch?v=jJ0pfUXLi2g
+  • Friends Interlude (Seniors)
+    https://www.youtube.com/watch?v=N44PHAEYyMM
+  • Bears. Beets. Battlestar GalactOrchesis: I Have Nothing
+    https://www.youtube.com/watch?v=kls96SYJWEU
+  • Bears. Beets. Battlestar GalactOrchesis: untitledfiercedancepartyshowstoppermoment
+    https://www.youtube.com/watch?v=88tdr0GXufw
+  • Bears. Beets. Battlestar GalactOrchesis: Schools Out 4Eva
+    https://www.youtube.com/watch?v=gv9-GsnGaWQ
+  • Bears. Beets. Battlestar GalactOrchesis: Breathe Life
+    https://www.youtube.com/watch?v=5GNlLpsZMjA
+  • Bears. Beets. Battlestar GalactOrchesis: Seinfeld Interlude
+    https://www.youtube.com/watch?v=yvJ_0h1fGiM
+  • Bears. Beets. Battlestar GalactOrchesis: 70s show Interlude
+    https://www.youtube.com/watch?v=lY3K1aOKHzc
+  • Bears. Beets. Battlestar GalactOrchesis: Done
+    https://www.youtube.com/watch?v=QMlfmWA-AbM
+  • Bears. Beets. Battlestar GalactOrchesis: Your Hand Fits into Mine
+    https://www.youtube.com/watch?v=r8kG8hcocgI
+  • Bears. Beets. Battlestar GalactOrchesis:  Eboard Speech
+    https://www.youtube.com/watch?v=0euc0G_JRDU
+  • Bears. Beets. Battlestar GalactOrchesis: Uptown Cabaret
+    https://www.youtube.com/watch?v=mTI3_mxmecw
+  • Columbia Orchesis: Letter To My 16-Year- Old Self
+    https://www.youtube.com/watch?v=HB-GFcHOqCI
+  • Columbia Orchesis: Happy
+    https://www.youtube.com/watch?v=DYdgShBrpyw
+  • Columbia Orchesis: Experiment 1 on Phrases 1 and 2
+    https://www.youtube.com/watch?v=4vYUYPfvpSc
+  • Columbia Orchesis: Comfort Me
+    https://www.youtube.com/watch?v=JoCorOsf6HQ
+  • Columbia Orchesis: The Master
+    https://www.youtube.com/watch?v=IA5up8FIAp8
+  • Columbia Orchesis: Good Girls
+    https://www.youtube.com/watch?v=Q-GcQv7P6N0
+  • Columbia Orchesis: Jitterbug
+    https://www.youtube.com/watch?v=FHYBN6eUYAY
+  • Columbia Orchesis: Thirteen Butterflies
+    https://www.youtube.com/watch?v=BgspSTbTrUM
+  • Columbia Orchesis: At Last
+    https://www.youtube.com/watch?v=gdaXjx2W7a0
+  • Columbia Orchesis: Mind Heist
+    https://www.youtube.com/watch?v=1XnrdPUsoLo
+  • Columbia Orchesis: Won't You Come On Over
+    https://www.youtube.com/watch?v=5ME9BCMfkzo
+  • Columbia Orchesis: Rhythms
+    https://www.youtube.com/watch?v=wrF-tvfCYRM
+  • Columbia Orchesis: Dope
+    https://www.youtube.com/watch?v=6ol8-CBu3pY
+  • Columbia Orchesis: Human Nature
+    https://www.youtube.com/watch?v=4vCISBv9FC0
+  • Columbia Orchesis: Shake It Off
+    https://www.youtube.com/watch?v=k-GEZwMA6vs
+  • Columbia Orchesis: Soapy Heels
+    https://www.youtube.com/watch?v=-gCY1wMovE0
+  • Columbia Orchesis: Don't You Come Back
+    https://www.youtube.com/watch?v=EmiIHjmZEhU
+  • Columbia Orchesis: Changed
+    https://www.youtube.com/watch?v=F1NnVYPOTpU
+  • Columbia Orchesis: Little Bird
+    https://www.youtube.com/watch?v=q0ay53d6iMU
+  • Columbia Orchesis: The Master
+    https://www.youtube.com/watch?v=-N2HFCpz7VM
+  • Columbia Orchesis: Goddess
+    https://www.youtube.com/watch?v=sk6_iRMm_-A
+  • Columbia Orchesis: Ruby Blue
+    https://www.youtube.com/watch?v=gdHA4Q8_4Y8
+  • Columbia Orchesis: Home
+    https://www.youtube.com/watch?v=QjQsPYjwc_g
+  • Columbia Orchesis: Run The Trap
+    https://www.youtube.com/watch?v=aS_ceesjFlI
+  • Columbia Orchesis: Almighty Sound
+    https://www.youtube.com/watch?v=XdPpkozBnrY
+  • Columbia Orchesis: Saltimbanco
+    https://www.youtube.com/watch?v=oI_YnLRBNDY
+  • Columbia Orchesis: Love and Life
+    https://www.youtube.com/watch?v=rnSsvqOAUgI
+  • Columbia Orchesis: I Need to Make a Sound
+    https://www.youtube.com/watch?v=C1v_ipKKp4E
+  • Columbia Orchesis: Italics
+    https://www.youtube.com/watch?v=elRN112Nqac
+  • Columbia Orchesis: Youth
+    https://www.youtube.com/watch?v=JM-AGyaFZZQ
+  • Columbia Orchesis: Khona
+    https://www.youtube.com/watch?v=vVjQTUACX4Y
+  • Columbia Orchesis: Royal T
+    https://www.youtube.com/watch?v=SRBQ3Y5Z0tQ
+  • Cell Block Tango - The MaMa Project 2013
+    https://www.youtube.com/watch?v=_-7N8-e5TTg
+  • Crystallized - The MaMa Project 2013
+    https://www.youtube.com/watch?v=SxYSDQw5gcQ
+  • Stupid - The MaMa Project 2013
+    https://www.youtube.com/watch?v=ZIrYpHOWL8s
+  • Columbia Orchesis: Veil
+    https://www.youtube.com/watch?v=ZICtHN3RjCc
+  • Columbia Orchesis: Tahitian
+    https://www.youtube.com/watch?v=egxEcpP9T-Q
+  • Columbia Orchesis: This Bitter Earth
+    https://www.youtube.com/watch?v=9s4m6I7Gbxk
+  • Columbia Orchesis: Sail
+    https://www.youtube.com/watch?v=onl4nhs-9XU
+  • Columbia Orchesis: Starstruck
+    https://www.youtube.com/watch?v=k4h5IOtc4ho
+
+Semester breakdown:
+  Fall 2012              4 video(s), 0 with song info
+  Spring 2012            4 video(s), 4 with song info
+  Fall 2013              4 video(s), 1 with song info
+  Spring 2013            4 video(s), 0 with song info
+  Fall 2014              5 video(s), 0 with song info
+  Spring 2014            9 video(s), 3 with song info
+  Fall 2015             14 video(s), 11 with song info
+  Spring 2015           15 video(s), 1 with song info
+  Fall 2016             11 video(s), 11 with song info
+  Spring 2016            9 video(s), 9 with song info
+  Spring 2017           17 video(s), 16 with song info
+  Fall 2018             39 video(s), 39 with song info
+  Spring 2018           17 video(s), 17 with song info
+  Spring 2019           18 video(s), 0 with song info
+  Fall 2020              1 video(s), 0 with song info
+  Spring 2020           21 video(s), 0 with song info
+  Fall 2021             18 video(s), 15 with song info
+  Spring 2021            1 video(s), 0 with song info
+  Fall 2022             21 video(s), 19 with song info
+  Spring 2022           19 video(s), 18 with song info
+  Fall 2023             20 video(s), 19 with song info
+  Fall 2024             20 video(s), 19 with song info
+  Spring 2024           20 video(s), 19 with song info
+
+Output saved to: orchesis_songs.csv
+

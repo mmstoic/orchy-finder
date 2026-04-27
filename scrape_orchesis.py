@@ -4,6 +4,10 @@ Scrapes CU Orchesis YouTube channel, extracts song info from video descriptions,
 and organizes by semester (Spring: Apr-Oct, Fall: Nov-Mar) into a CSV file.
 """
 
+import ssl
+import certifi
+ssl._create_default_https_context = lambda: ssl.create_default_context(cafile=certifi.where())
+
 import yt_dlp
 import csv
 import re
@@ -79,6 +83,13 @@ def extract_songs(description):
     return songs
 
 
+class _SilentLogger:
+    """Suppresses yt-dlp's error/warning output for unavailable videos."""
+    def debug(self, msg): pass
+    def warning(self, msg): pass
+    def error(self, msg): pass
+
+
 def fetch_videos():
     """Fetch full metadata (including descriptions) for every channel video."""
     opts = {
@@ -86,6 +97,7 @@ def fetch_videos():
         "no_warnings": True,
         "extract_flat": False,   # full info so we get descriptions
         "ignoreerrors": True,
+        "logger": _SilentLogger(),
     }
 
     print(f"Fetching videos from {CHANNEL_URL} …")
